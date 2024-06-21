@@ -1,8 +1,8 @@
-# Curve Readonly Reentrancy
+# Curve Vyper Reentrancy
 
 ## Configuration
 
-- Check: `pess-curve-vyper-reentrancy`
+- Check: `pess-vyper-version-reentrancy`
 - Severity: `High`
 - Confidence: `High`
 
